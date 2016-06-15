@@ -4,8 +4,8 @@ import java.util.Random;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/* Week 4 Salary comparison program - By James
-
+/* 
+This was a class assignment.
 This program calculates the users salary bonus based of the number 
 of sales they entered then prints the output. 
 Afterwards it compares their sales with the sales of a coworker.
