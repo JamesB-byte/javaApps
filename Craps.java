@@ -3,6 +3,12 @@ import java.util.Random;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+
+This is a classic game of craps
+
+*/
+
 public class CrapsGame
 {
 // global variables
