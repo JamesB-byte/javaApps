@@ -32,7 +32,7 @@ public Characters(String userName, String userRace, String userClass, int userCh
 	this.userRace = userRace;
 	this.userClass = userClass;	
 	this.userChar = userChar;
-    this.userWis = userWis;
+        this.userWis = userWis;
 	this.userInt = userInt;
 	this.userCon = userCon;
 	this.userDex = userDex;
